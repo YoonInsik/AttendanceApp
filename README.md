@@ -85,3 +85,6 @@
 - 하단의 로그아웃 버튼을 눌러 로그인 화면으로 복귀
 
 
+3. 발표 영상
+
+   [![Video Label](https://github.com/YoonInsik/AttendanceApp/assets/57671008/9615a17a-61bf-4771-93ff-76c67c9fa9be)](https://youtu.be/oiMr-cDQHaQ)
